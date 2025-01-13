@@ -22,7 +22,7 @@ class Ui_DataView(object):
         ("name", "name", 30, 150, 150, 150),
         ("kategori", "kategori", 30, 210, 150, 210),
         ("qty", "qty", 30, 270, 150, 270),
-        ("harga", "harga", 30, 270, 150, 270)
+        ("harga", "harga", 30, 330, 150, 330)
     ]
 
     def setupUi(self, DataView):
